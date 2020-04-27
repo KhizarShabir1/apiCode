@@ -220,7 +220,6 @@ pytorch-ignite==0.2.1
 pytorch-transformers==1.2.0
 pytz==2019.2
 PyWavelets==1.0.1
-pywin32==223
 pywinpty==0.5.5
 PyYAML==3.13
 pyzmq==17.1.2
