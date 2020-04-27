@@ -38,10 +38,6 @@ colorama==0.4.1
 colorclass==2.2.0
 coloredlogs==10.0
 colorhash==1.0.2
-conda==4.7.12
-conda-build==3.17.6
-conda-package-handling==1.4.1
-conda-verify==3.1.1
 ConfigArgParse==0.14.0
 constantly==15.1.0
 contextlib2==0.5.5
