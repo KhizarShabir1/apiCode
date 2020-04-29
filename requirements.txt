@@ -43,7 +43,7 @@ Sphinx==1.8.2
 tensor2tensor==1.14.0
 tensorboard==1.14.0
 tensorboardX==1.8
-tensorflow==1.14.0
+tensorflow==1.15.2
 webexteamssdk==1.2
 websocket-client==0.54.0
 websockets==6.0
